@@ -1,3 +1,7 @@
 .cards__item{
     flex-basis: 240px;
   }
+  .cards__item:last-of-type{
+    margin-right: auto;
+    margin-left: 100px;
+  }

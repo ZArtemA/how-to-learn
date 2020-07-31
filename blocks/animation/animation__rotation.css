@@ -1,5 +1,5 @@
-.header__square-pic_type_rotation{
-    animation: rotation 20s infinite;
+.animation__rotation{
+    animation: rotation 20s infinite linear 1s;
   }
 
   @keyframes rotation{
