@@ -1,5 +1,5 @@
 .cards__item{
-    flex-basis: 240px;
+    width: 240px;
   }
   .cards__item:last-of-type{
     margin-right: auto;

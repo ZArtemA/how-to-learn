@@ -9,7 +9,3 @@
   font-family: 'Helvetica Neue', 'Arial', 'sans-serif';
   color: #000000;
 }
-.content{
-    display: flex;
-  flex-direction: column;
-}
